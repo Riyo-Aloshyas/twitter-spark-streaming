@@ -3,6 +3,7 @@ import socket
 import re
 import preprocessor
 
+# Enter your Twitter keys here!!!
 
 ACCESS_TOKEN = "1253174517255606272-7T6XvB4M7NFpwCePdNirpG4fi60FDK"
 ACCESS_SECRET = "vL96lgst7KHOKPjtSUWK9Btmyl3hxM4RvcscN5rTxttq4"
