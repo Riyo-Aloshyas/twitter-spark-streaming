@@ -1,4 +1,7 @@
+The following lists the functional capabilities of the Twitter Spark Streaming Application:
+
 Functional Specifications:
+
 Scrapper:
 1. Collect tweets in real-time with a specific hashtag using Twitter API
 2. Filter tweets by removing emoji symbols and special characters
