@@ -15,6 +15,7 @@ Instructions for running:
 
 3. use following command on tweets.json
 	cat tweets.json | tr -d " \t\n\r"
+
 ***** given json file has already been removed of whitespace *****
 
 4. upload tweets.json to databricks
