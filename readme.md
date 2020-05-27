@@ -13,7 +13,8 @@ Instructions for running:
 
 2. python3 spark.py
 
-3. use following command on tweets.json
+3. use following command on tweets.json:
+	
 	cat tweets.json | tr -d " \t\n\r"
 
 ***** given json file has already been removed of whitespace *****
