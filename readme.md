@@ -1,10 +1,13 @@
 This project deals with real-time streaming data arriving from Twitter streams.
 
 Flow of the app:
+
 Scrapper ----> Sentiment Analyzer ----> Data Visualization
 
 Scrapper: collects tweets, preprocesses them for analytics
+
 Sentiment Analyzer: determines whether the tweet is positive, negative or neutral
+
 Data Visualization: visualizes real-time collected tweet data
 
 Instructions for running:
